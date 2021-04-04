@@ -7,9 +7,11 @@ Microsoft Visual Studio Community 2019. Дан метод `int largest(int[] a)`
 ## Полезные справочные материалы
 
 Статьи:
+
 [Learning NUnit In Easy Way For Beginners](http://learnseleniumtesting.com/learning-nunit-in-easy-way-for-beginners/)
 
 Видео на YouTube: 
+
 [C# Unit Tests Using NUnit](https://www.youtube.com/watch?v=uvqAGchg8bc)
 
 ## Алгоритм выполнения
